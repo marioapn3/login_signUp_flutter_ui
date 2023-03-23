@@ -8,9 +8,9 @@ Flutter Project Slicing UI Login and SignUp
 
 How to instal this example flutter clone project on ur device.
 
-clone this project
-Run flutter pub get to install all dependencies
-Run this project on your emulator / you can use google chrome as ur emulator
+1. clone this project
+2. Run flutter pub get to install all dependencies
+3. Run this project on your emulator / you can use google chrome as ur emulator
 
 
 ## Getting Started
